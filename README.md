@@ -8,7 +8,7 @@ App Demo
 
 ### Home Page
 
-![Job Opportunities List](./screenshots/home.png)
+![Job Opportunities List](./screenshots/home-page.png)
 
 🧬 How to Run the Project
 Download or clone this repository.
